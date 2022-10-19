@@ -1,14 +1,14 @@
  <!DOCTYPE html>
- <htm>
+<html lang="pt-br">
     <head>
       <metta charset="UTF-8*
       <title>Bangtan</title>
     </head>
   <body>
-      <h1>BTS</h1>
-     <p>Bts é um grupo de kpop mundialmnte conhecido, é uma sigla para Bangtan Sonyeondan <p>que significa, "escoteiros à prova de balas",o nome dos membros são:
-     <p>Kim Namjoon (RM), <p>Kim Seokjin (JIN), <p>Min Yoongi(SUGA), <p>Jung Hoseok (J-HOPE), <p>Park Jimin, <p>Kim Taehyung (V), e <p>Jeon Jungkook, 
-     <p>seus fãs são chamados de ARMY, suas musicas falam sobre autoestima, sobre amar nós mesmos, <p>o bts debutou em 2013 com a musica "No More Dream",
-     <p>o mais velho do grupo é o Jin, e o mais novo é o Jungkook.
+      <h1 style="text-align: center">BTS</h1>
+     <p style="text-align: center">Bts é um grupo de kpop mundialmnte conhecido, é uma sigla para <strong>Bangtan Sonyeondan</strong> <p>que significa, <em>escoteiros à prova de balas</em>,o nome dos membros são:
+     <p style="text-align: center">Kim Namjoon (RM), <p>Kim Seokjin (JIN), <p>Min Yoongi(SUGA), <p>Jung Hoseok (J-HOPE), <p>Park Jimin, <p>Kim Taehyung (V), e <p>Jeon Jungkook, 
+     <p style="text-align: center">seus fãs são chamados de ARMY, suas musicas falam sobre autoestima, sobre amar nós mesmos, <p>o bts debutou em 2013 com a musica "No More Dream",
+     <p style="text-align: center">o mais velho do grupo é o Jin, e o mais novo é o Jungkook.
   </body>
 </html>
